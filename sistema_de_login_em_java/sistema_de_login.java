@@ -1,4 +1,3 @@
-// projeto em andamento!
 package sistema_de_login_em_java;
 
 import java.util.Scanner;
